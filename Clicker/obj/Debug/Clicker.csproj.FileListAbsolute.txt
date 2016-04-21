@@ -1,0 +1,9 @@
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\bin\Debug\Clicker.exe.config
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\bin\Debug\Clicker.exe
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\bin\Debug\Clicker.pdb
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\obj\Debug\Clicker.exe
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\obj\Debug\Clicker.pdb
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\obj\Debug\Clicker.Form1.resources
+E:\Dropbox\!Coding\All_in_one\Clicker\Clicker\obj\Debug\Clicker.csprojResolveAssemblyReference.cache
